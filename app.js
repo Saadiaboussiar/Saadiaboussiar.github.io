@@ -12,7 +12,7 @@ all:["All","Tous"],ai:["AI & Agents","IA & Agents"],de:["Data Engineering","Data
 dc:["Guided projects (DataCamp)","Projets guidés (DataCamp)"],back:["← All projects","← Tous les projets"],
 shot:["Screenshots","Captures d'écran"],code:["Code examples","Exemples de code"],todo:["To fill: ","À compléter : "],
 edu:["Education","Formation"],exp:["Experience","Expérience"],cert:["Certifications","Certifications"],lg:["Languages","Langues"],sk:["Skills","Compétences"],
-mail:["Email","E-mail"],pt:["Based in Agadir, Morocco. Looking for an opportunity in data engineering, AI or full-stack development.","Basée à Agadir, Maroc. À la recherche d'une opportunité en data engineering, IA ou développement full-stack."]};
+mail:["Email","E-mail"],pt:["Based in Agadir, Morocco. Looking for an opportunity in data engineering or AI .","Basée à Agadir, Maroc. À la recherche d'une opportunité en data engineering ou IA ."]};
 const P=[
 {id:"agent",g:["ai","fs"],k:["Internship (PFA) · Jul-Sep 2026 · Team of 2","Stage (PFA) · Juil-Sept 2026 · Équipe de 2"],t:["AI Agent for ERP","Agent IA pour ERP"],
 s:["A chatbot inside an ERP that answers business questions in plain language, using tested database tools first and a guarded SQL fallback.","Un chatbot intégré à un ERP qui répond aux questions métier en langage naturel, avec d'abord des outils de base de données testés, puis un repli SQL protégé."],
